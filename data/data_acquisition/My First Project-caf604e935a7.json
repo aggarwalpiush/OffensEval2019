@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fair-gist-226115",
+  "private_key_id": "caf604e935a74f4d9a5af8472119808a3681318c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzeF+JNtDggcXQ\nEgAVHhDvJxZsVZrCm75qX1J79ac3cI8xYau/NkOT03WoKVpbwAKywwLFH2i+IRfA\njciWac2e7evMhsxW2F24lfXe3wT7X9SgFXge8dAQp7hnSzJbNBlm3FQkWXMjU1CQ\n0hcO69wwHpHwtvdpDeRrmjASCWg8Fwo+mMn1zrUqDpZ9aw4KXMmzG1uLX6V8Vbtc\nkCr6ckLqwdnjz6aB2P1ptpN57hPqofRzmm7JujBuhFWNfJEx1FGDCC/Sf+xkP8/q\nuoFD7PcqGHG8xX3R7eEkfQerDjZNGB5WxmUaKHzLWn7xI6gKJFCckrBgobRLMQYb\nb4iTekULAgMBAAECggEABr1XY4Kkkm6QXD5CZ+8CnMoffFibBxusXJ53k88hHrxb\n33NdbNqGH1ftqOLj3hX8vY2d0R0OWAF/IyYctiu2YvVoiWKdUgkuPJ9pDDV2bVUA\n2gG9/cKzJd6RvSAX5B2CcxhRrDHHWJ7C1xI33agVOaHHdXFkvIdSIImGrGhTbg1k\nXxjR6pL/RV+deeMjUSQga0pMYwiKUqiH+/DusVHthQee591QWDRGQL/tBXw3rvhX\nkKnAFFa4J6esszqWJx2kiZVCOTZfuf2gOpFJzxCLYosJLzfoGzt55uhkeGsKH/JJ\nz5NOzABZ0/y8jZ7zuRWKLQjSciPGc8wOhUmd9uxu3QKBgQD4hjfSIghl/TGWgYz1\nPrq2EksU/eVOgBGoT2SALcAd5IPSzy4mJ81JBezDlB9H2OtCYnIf8JlJtF9Oa5Pj\nvKA4oKZ2WzWwPklDr750AaZJRyGAyUCLSEC6wj17c1lNo8x458y6aKgikvw5o+0y\nCD+T0CaM5l6Mn4ND2IlQ9fc79wKBgQC43mYATiv+Oygol6pA6uWEGgZIznnq+QPR\nWIfAU3Mi8CJYOhtRCCZjzdu0z2NEG50SeIo0sEp9EVnHw5YWuW4CWejqq3SeUxyw\neJ0gfy8NLeMSIKS7n1MOUMi6yRz26c5xjYYIQc/MeF03RiDnXO80trlv0h07CrA2\nOhsVnigyjQKBgDnj+ejG6LHpMr3eW5ldDV0QEdFH+zw39OUB6WU6QwAzlMlsXVGh\n/928tZQxUsAHtXV3PSJXhz11+KVpxb9M1v2Z3my/flgZijNsIq8fGz8ChLldJ93J\n7NoUGQJCslC1kRGw3S2m51N2ba53ku8OoNCrse8sUmXrWkZZkFL9mKOtAoGBAKrl\nrRWLLlAPD8i2q8TnYNUF2dlkRoBZQpY8aQH6Iu2hX55/2NDH3/VTUE+NiA5mGIYC\nuICMl8+WQpDQ1eab9H5n71FAvsW9vz/DwD1SVYSxbsBLPP3VA0qwk19Ym1YGPbnr\nQoRPknFKs6FtSu2Wk+r/H92nNy5laxA2FuOdGTvhAoGBAIrNLeenSF5s5EhYfliF\nfON5UojrP841CV4KZsM9+3f0rplU2gkoQwcpwIyLjWJ9MCVFrcyKSioS9ebw/Xs6\nVLkvkC0WXJ65eA6R3MNICKyNCIltz1P613t/G3EDytbSOfL0ayr3imGNPOBTBB48\n3W/gOQejQ3jt1rRsGqIAPAeZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate-offenseval@fair-gist-226115.iam.gserviceaccount.com",
+  "client_id": "108131087399802007558",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate-offenseval%40fair-gist-226115.iam.gserviceaccount.com"
+}
